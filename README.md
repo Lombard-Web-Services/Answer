@@ -1,4 +1,4 @@
 # Les corrigés des TP
 Les corrigés des TP machine learning specialization, deep learning specialization.
 
-.par thibaut LOMBARD https://github.com/Lombard-Web-Services
+par thibaut LOMBARD https://github.com/Lombard-Web-Services
