@@ -7,4 +7,4 @@ Correction par thibaut LOMBARD (certifié deep learning et machine learning) htt
 Andrew Ng and his team
 
 ### License 
-© Deeplearning.ai https://www.deeplearning.ai/ , do not use reproduce.
+© Deeplearning.ai https://www.deeplearning.ai/ , do not use or reproduce expected with author auth.
